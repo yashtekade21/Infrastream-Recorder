@@ -1,2 +1,2 @@
 # Infrastream-Recorder
-Schedule recording of IP camera using micro-processor over local network
+Schedule recording of IP camera using micro-processor over local network using Micro-python
