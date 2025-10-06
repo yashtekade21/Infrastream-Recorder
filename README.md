@@ -134,15 +134,6 @@ scp pi2b@<raspberry_pi_ip>:/home/pi2b/videos/*.mp4 .
 
 ---
 
-## 👨‍💻 Author
-
-**Yash Tekade**
-B.Tech | Computer Science & Business Systems
-JSPM’s Rajarshi Shahu College of Engineering
-(2022–2026)
-
----
-
 ## 📄 License
 
 MIT License – You’re free to use and modify this project for personal or academic purposes.
